@@ -1,4 +1,4 @@
-# Eati.it
+# Eat_it_Snake
 
 A simple snake game shows a simple canvas for with a snake and a food for it.
 The length of snake increases on taking the food and the score increases accordingly.
